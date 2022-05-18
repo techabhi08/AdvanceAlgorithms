@@ -3,7 +3,6 @@ import java.util.Stack;
 public class StroboGrammatic {
     public static void main(String[] args) {
         System.out.println(stackPseudo(19891));
-        System.out.println(pseudoBrute(19891));
     }
 
     static boolean stackPseudo(int n){
