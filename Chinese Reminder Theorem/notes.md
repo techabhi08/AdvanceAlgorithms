@@ -91,5 +91,5 @@ This value of x will satisfy the given congruent equations as:<br/>
 
 Hence the answer is derived.
 
- 
-
+The Time complexity for the algorithm is: O(N Log N)
+Space Complexity: O(1)
